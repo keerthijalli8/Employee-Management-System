@@ -44,3 +44,15 @@ This project demonstrates how CRUD (Create, Read, Update, Delete) operations and
 
 
 ---
+
+## How to Run
+1. Open a terminal in the project directory.
+2. Compile the code:
+   ```bash
+   javac Employee.java EmployeeManagementSystem.java
+   ```
+3. Run the program:
+   ```bash
+   java EmployeeManagementSystem
+   ```
+
